@@ -4,7 +4,6 @@ import com.krokodillll.test_task_dinamex.model.Order;
 import com.krokodillll.test_task_dinamex.model.User;
 import com.krokodillll.test_task_dinamex.service.OrderService;
 import com.krokodillll.test_task_dinamex.service.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
