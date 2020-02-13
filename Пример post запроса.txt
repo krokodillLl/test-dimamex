@@ -1,0 +1,12 @@
+{
+	"firstName": "Nikita",
+	"lastName": "Aleksandrov",
+	"orders": [{"serviceName": "massage", "targetUrl": "https://massage.ru/", "price": "5600"}, {"serviceName": "haircut", "targetUrl": "https://haircut.ru/", "price": "600"}]
+}
+
+{
+	"firstName": Mark
+	"lastName": Sergeev
+	"orders": [{"serviceName": clean", "targetUrl": "https://some1.ru/", "price": "1245"}, {"serviceName": "repair", "targetUrl": "https://some2.ru/", "price": "8972"}]
+}
+
